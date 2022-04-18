@@ -1,0 +1,52 @@
+[{
+"orderItems":[{
+	"quantity": 3,
+	"product": "614ce0a2738e968ec19ab158"
+	},
+	{
+	"quantity": 2,
+	"product": "614dbe9152eb05d591f1eb54"
+	}
+],
+"shippingAddress1": "Brown Street",
+"shippingAddress2": "100 Apartment",
+"city": "Kumasi",
+"zip": "S02 S02",
+"country": "Tarkoradi",
+"phone": "07484847747",
+"user": "6151cd45a50a76947019b3a1"
+},
+{
+"orderItems":[{
+	"quantity": 2,
+	"product": "6156dab63978cb2554f47b84"
+	},
+	{
+	"quantity": 1,
+	"product": "6156df884c518f1709b85465"
+	}
+],
+"shippingAddress1":"Brown Street",
+"shippingAddress2":"100 Apartment",
+"city":"Texsas",
+"zip":"S02 S02",
+"country":"Ukraine",
+"phone":"07484847747",
+"user":"6155c288afa56d2258b1bc91"
+},
+{
+"orderItems":[{
+	"quantity": 2,
+	"product": "6156df884c518f1709b85468"
+	},
+	{
+	"quantity": 4,
+	"product": "6156df884c518f1709b8546b"
+	}],
+"shippingAddress1": "Brown Street",
+"shippingAddress2": "100 Apartment",
+"city": "Kumasi",
+"zip": "S02 S02",
+"country": "Ghana",
+"phone": "07484847747",
+"user": "6151cd45a50a76947019b3a1"}]

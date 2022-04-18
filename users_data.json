@@ -1,0 +1,98 @@
+[
+   {
+    "name":"Leo Smith",
+    "email":"leo.smith@email.com",
+    "password":"Something4$",
+    "phone":"07484847747",
+    "isAdmin":true,
+    "street":"250 Kings Street",
+	"apartment":"1 Apartment",
+    "zip":"M18 89S",
+    "city":"Texsas",
+    "country":"Poland"
+   },
+   {
+    "name":"Eric Smith",
+    "email":"eric.smith@email.com",
+    "password":"Something4$",
+    "phone":"07484847747",
+    "isAdmin":true,
+    "street":"250 Kings Road",
+	"apartment":"2 Apartment",
+    "zip":"M18 O98",
+    "city":"Texsas",
+    "country":"England"
+   },
+   {
+    "name":"David Smith",
+    "email":"david.smith@email.com",
+    "password":"Something4$",
+    "phone":"07484847747",
+    "isAdmin":true,
+    "street":"Brown Street",
+	"apartment":"3 Apartment",
+    "zip":"M18 4BP",
+    "city":"Texsas",
+    "country":"Canada"
+   },
+   {
+    "name":"Sarah Smith",
+    "email":"sarah.smith@email.com",
+    "password":"Something4$",
+    "phone":"07484847747",
+    "isAdmin":true,
+    "street":"Brown Street",
+	"apartment":"4 Apartment",
+    "zip":"M18 89S",
+    "city":"Texsas",
+    "country":"Togo"
+   },
+   {
+    "name":"Sandra Smith",
+    "email":"sandra.smith@email.com",
+    "password":"Something4$",
+    "phone":"07484847747",
+    "isAdmin":true,
+    "street":"2 Bush Street",
+	"apartment":"5 Apartment",
+    "zip":"M18 89S",
+    "city":"Texsas",
+    "country":"Germany"
+   },
+   {
+    "name":"Sylvia Smith",
+    "email":"sylvia.smith@email.com",
+    "password":"Something4$",
+    "phone":"07484847747",
+    "isAdmin":true,
+    "street":"Brown Street",
+	"apartment":"6 Apartment",
+    "zip":"M18 89S",
+    "city":"Texsas",
+    "country":"Ukraine"
+   },
+   {
+    "name":"Eli Smith",
+    "email":"eli.smith@email.com",
+    "password":"Something4$",
+    "phone":"07484847747",
+    "isAdmin":true,
+    "street":"Brown Street",
+	"apartment":"7 Apartment",
+    "zip":"M18 89S",
+    "city":"Texsas",
+    "country":"Holland"
+   },
+   {
+    "name":"Alice Smith",
+    "email":"alice.smith@email.com",
+    "password":"Something4$",
+    "phone":"07484847747",
+    "isAdmin":true,
+    "street":"Brown Street",
+	"apartment":"8 Apartment",
+    "zip":"M18 89S",
+    "city":"Texsas",
+    "country":"Poland"
+   }
+]

@@ -1,0 +1,32 @@
+[
+  {
+  "name": "Mobile",
+  "color": "#F0E4E1",
+  "icon": "settings_cell"
+  },
+  {
+  "name": "Beauty",
+  "color": "#F0E8DE",
+  "icon": "face"
+  },
+  {
+  "name": "Computers",
+  "color": "#E1F0E7",
+  "icon": "computer"
+  },
+  {
+  "name": "Home",
+  "color": "#E2E1F0",
+  "icon": "home"
+  },
+  {
+  "name": "Cars",
+  "color": "#E2E1F0",
+  "icon": "commute"
+  },
+  {
+  "name": "Games",
+  "color": null,
+  "icon": "games"
+  }
+]
